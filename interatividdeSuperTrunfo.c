@@ -26,6 +26,19 @@ int main() {
  
   printf("Menu Principal\n");
   printf("1. Iniciar Jogo\n");
+  // printf("escolha atributo para comparação: \n")
+    // 1. populacao
+
+    // 2. area
+
+    // 3. pib
+
+    // 4. pontos turisticos
+
+    // 5. Dens. demografica
+
+    // 6. renda percapita
+    
   printf("2. Ver Regras\n");
   printf("3. Sair\n");
   printf("Escolha uma opção: \n");
