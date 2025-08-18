@@ -4,8 +4,7 @@
 // Desafio Super Trunfo 
 // Desafio: nível novato - Criando as Cartas do Super Trunfo
 // Tema 1 - Cadastro das Cartas
-// Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
-// Teste Bruno
+
 
 int main() {
     
